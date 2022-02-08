@@ -1,0 +1,92 @@
+[
+    {
+        "sex": "male",
+        "name": "Максим",
+        "phoneNumber": "+7-911-123-45-67"
+    },
+
+    {
+        "sex": "female",
+        "name": "Анна",
+        "phoneNumber": "+7-912-123-45-67"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Вика",
+        "phoneNumber": "+7-952-123-45-67" 
+    },
+    
+    {
+        "sex": "male",
+        "name": "Паша",
+        "phoneNumber": "+7-953-123-45-67"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Милена",
+        "phoneNumber": "+7-911-765-45-67"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Настя",
+        "phoneNumber": "+7-965-333-23-23"
+    },
+    
+    {
+        "sex": "unknown",
+        "name": "Саша",
+        "phoneNumber": "+7-911-412-45-45"
+    },
+    
+    {
+        "sex": "male",
+        "name": "Гоша",
+        "phoneNumber": "+7-912-000-33-13"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Яна",
+        "phoneNumber": "+7-965-765-43-21"
+    },
+    
+    {
+        "sex": "unknown",
+        "name": "Слава",
+        "phoneNumber": "+7-952-341-06-18"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Алиса",
+        "phoneNumber": "+7-952-306-53-89"
+    },
+    
+    {
+        "sex": "male",
+        "name": "Филипп",
+        "phoneNumber": "+38-068-333-45-55"
+    },
+    
+    {
+        "sex": "male",
+        "name": "Артём",
+        "phoneNumber": "+7-921-123-45-67"
+    },
+    
+    {
+        "sex": "female",
+        "name": "Алина",
+        "phoneNumber": "+7-921-326-74-60"
+    },
+    
+    {
+        "sex": "unknown",
+        "name": "Женя",
+        "phoneNumber": "+7-911-843-87-11"
+    }
+
+]
